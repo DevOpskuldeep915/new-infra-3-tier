@@ -1,6 +1,6 @@
 # Create an S3 Bucket
 resource "aws_s3_bucket" "example_bucket" {
-  bucket = "51515mohantybucket20"
+  bucket = "mohantybuckethknunibb20"
 
   # Enable versioning
   versioning {
